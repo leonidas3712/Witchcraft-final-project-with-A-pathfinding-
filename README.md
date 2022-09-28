@@ -1,5 +1,4 @@
-# Witchcraft-final-project-with-A-pathfinding-
-A final project made way back 
+# "Witchcraft" final project with A* pathfinding
 
 This is a project I made for school way back when.
 
